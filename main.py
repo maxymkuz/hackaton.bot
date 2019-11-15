@@ -12,9 +12,12 @@ def send_echo(message):
     if message.text == '/start':
         bot.send_message(message.chat.id, "Choose", reply_markup=markup)
     if message.text == 'Додати івент':
-        pass
+        bot.send_message(message.chat.id, "Enter a name for your event", reply_markup=markup)
     if message.text == 'Подивитися івенти':
-        pass
+        f = open("events.txt", "r", encoding="utf-8")
+        evets = f.readlines()
+        
+        f.close()
     
     
 bot.polling( none_stop = True )
