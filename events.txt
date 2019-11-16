@@ -1,1 +1,5 @@
-['НА пиво', "18.11.2019", "Bar", "ідемо пити півасік за школою", "10", ["@1","@2"]]
+['Nnn', '15.11', 'UCU', 'Hackathon on telegram bots', 'Євген Панкевич @yex_p', '2']
+['Sex', '12.5.2020', 'Fgj', 'Dhhft', 'El Barto @stackoverflow_developer', '9']
+['Event', 'Today', 'after hackaton', 'Hz', 'Go to the pivo', 'Pasha @pavlohiley', '2']
+['На пиво', '15.11 21.00', 'Гадюшник', 'Приходьте всі', 'Andr 1211 @andr555', '22']
+['Ідем в курилку одразу після хакатона!', 'Мейбі 20:00', '/start', 'Го', 'Vova Savchuk @volodymyr_savchuk', '10']
